@@ -36,4 +36,4 @@ Working outside of Codecademy platform on my own computer, using VSCode and Git 
 This project is in its developmentContact stage.
 
 ## Contact
-Created by Neal Stephenson(#nealstephenson38@hotmail.co.uk) - feel free to contact me.
+Created by [Neal Stephenson](mailto:nealstephenson38@hotmail.co.uk) - feel free to contact me.
