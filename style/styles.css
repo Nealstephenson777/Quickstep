@@ -8,8 +8,11 @@ html {
 }
 
 body{
-  margin:0 auto;
+
+  width:100%;
 }
+
+
 
 
 .grid {
@@ -85,6 +88,7 @@ body{
 }
 
 .banner {
+  width:
   display: flex;
   justify-content: center;
   align-items: center;
