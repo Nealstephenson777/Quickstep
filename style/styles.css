@@ -27,7 +27,7 @@ font-size: 1.5rem;
 }
 
 .grid {
-  font-family:'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin:0;
   display: grid;
   grid-template-columns: repeat(12, [col-start] 1fr);
@@ -145,7 +145,6 @@ font-size: 1.5rem;
 }
 
 .image-container img {
-  flex-grow: 1;
   width:14.7rem;
   height:16rem;
   border-radius: 1rem;
