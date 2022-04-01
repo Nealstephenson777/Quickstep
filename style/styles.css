@@ -148,7 +148,7 @@ font-size: 1.5rem;
 }
 
 .image-container img {
-  width:14.7rem;
+  max-width:14.7rem;
   height:16rem;
   border-radius: 1rem;
   margin: .5rem;
