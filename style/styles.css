@@ -154,6 +154,7 @@ font-size: 1.5rem;
   height:16rem;
   border-radius: 1rem;
   margin: .5rem;
+  object-fit: cover;
 }
 
 .specialist{
