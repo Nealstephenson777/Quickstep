@@ -137,10 +137,13 @@ font-size: 1.5rem;
 
 .image-container {
   height: 18.9%;
-  width: 57%;
+  width: 15.8rem;
   background-color: rgb(255 255 255);
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
   border-radius: 1rem;
-  margin: 1rem 1%;
+  margin: 1rem auto;
 
 }
 
@@ -223,7 +226,7 @@ background-color: #f3f3f3;
 
 /* Desktop styles */
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 480px) {
    .header .mobile {
   display: none;
   }
@@ -285,12 +288,15 @@ background-color: #f3f3f3;
   }
 
   .image-container{
-    width: 18.5rem;
-    height: 23rem;
+    width: 15rem;
+    height: 20rem;
+    margin: 1rem 3%;
   }
 
   .image-container img{
-    width: 17rem;
+    width: 14rem;
+    margin: .5rem;
+
   }
 
   .sponsores-container {
@@ -314,7 +320,7 @@ background-color: #f3f3f3;
     margin-right: auto;
 }
 .sub-headings h2 {
-font-size: 2rem;
+font-size: 1.5rem;
 }
 
 .sub-headings h3 {
@@ -325,7 +331,7 @@ font-size: 2rem;
 }
 
 .specialist h2{
-  font-size: 2rem;
+  font-size: 1.3rem;
 }
   .header .desktop ul {
       list-style: none;
